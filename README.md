@@ -80,7 +80,7 @@ python Test_deblur.py
 
 - **Answers.pdf**: pdf with the answers and plots to the assignment of the course
 
-- **Exercise instructions.py**: pdf with the questions of the assignment of the course
+- **Exercise instructions.pdf**: pdf with the questions of the assignment of the course
 
 ## 🛠 Skills
 Python, Matplotlib, Scipy, Jupyter notebooks. Machine learning, constrained optimization algorithms implementation, constrained nuclear norm projection, singular value decomposition, linear minimization oracle (LMO), Frank-Wolfe, Blind Image Deconvolution.
