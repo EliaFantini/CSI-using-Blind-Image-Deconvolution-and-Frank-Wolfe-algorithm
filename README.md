@@ -86,7 +86,7 @@ python Test_deblur.py
 Python, Matplotlib, Scipy, Jupyter notebooks. Machine learning, constrained optimization algorithms implementation, constrained nuclear norm projection, singular value decomposition, linear minimization oracle (LMO), Frank-Wolfe, Blind Image Deconvolution.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EliaFantini/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eliafantini.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-elia-fantini/)
 
 
